@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "202890458038",
+    "firebase_url": "https://courseschedule-zhzq.firebaseio.com",
+    "project_id": "courseschedule-zhzq",
+    "storage_bucket": "courseschedule-zhzq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202890458038:android:5968e5c13d326ae9",
+        "android_client_info": {
+          "package_name": "example.yzhhzq.courseschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202890458038-hlsseccqog8m8lbl922m1vj1hk9jc3eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.yzhhzq.courseschedule",
+            "certificate_hash": "562EC70FB18AA5B0656696EB8031FE42748AFAFE"
+          }
+        },
+        {
+          "client_id": "202890458038-kp42aj2ugkk78a1tvravdt93ev64clc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4mnEc6EkWsytVI_rRRA2wD9x4OHZDdU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202890458038-kp42aj2ugkk78a1tvravdt93ev64clc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
